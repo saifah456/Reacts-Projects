@@ -1,7 +1,4 @@
-todo/node_modules/*
-counter/node_modules/*
-firstreact/node_modules/*
-usestate/node_modules/*
+
 # dependencies
 /node_modules
 /.pnp
